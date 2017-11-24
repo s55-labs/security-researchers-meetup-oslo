@@ -5,7 +5,7 @@ Security Researchers meetup 0x06
 
 **Where:** BrewDog Grünerløkka, Oslo
 
-Kahoot Quizes
+Kahoot Quizzes
 -------------
 
 Part 1: https://create.kahoot.it/l/#quiz/bcc1f58a-7421-4c5e-8871-416f53da2133
